@@ -53,6 +53,20 @@ Instruções de Uso:
 - Conecte-se à rede Wi-Fi utilizando as credenciais fornecidas no código.
 - A cada 15 segundos, o sistema enviará a força G total calculada para o ThingSpeak e HTML, onde você poderá monitorar os dados.
 
+![Draft](https://github.com/user-attachments/assets/166a5070-f818-4d4f-8588-fbef1ffc6ed3)
+
+Link Wokwi: 
+
+[https://wokwi.com/projects/410218519444978689]
+
+Link ThingSpeak: 
+
+[https://thingspeak.com/channels/2667482]
+
+Link Vídeo Explicativo:
+
+[]
+
 Código Fonte: 
 
 ```c++
