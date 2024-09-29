@@ -65,7 +65,7 @@ Link ThingSpeak:
 
 Link Vídeo Explicativo:
 
-[]
+[https://youtu.be/_XjEq_VP71M]
 
 Código Fonte: 
 
